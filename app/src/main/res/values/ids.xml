@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_food" type="id" />
+    <item name="action_movie" type="id" />
+    <item name="action_discount" type="id" />
+</resources>
